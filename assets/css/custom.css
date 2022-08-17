@@ -1,0 +1,60 @@
+.btn-wish {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+.form-control-rounded {
+	border-radius: 50px !important;
+}
+
+.input-group-rounded {
+	border-radius: 50px;
+}
+
+.input-group-append-rounded {
+	margin-left: -55px;
+	z-index: 10;
+}
+
+.input-group-text-rounded {
+	border: none;
+	background-color: transparent;
+}
+
+.cursor {
+	cursor: pointer;
+}
+
+#datatable-buttons_wrapper {
+	margin: 0px !important;
+	padding: 0px !important;
+	width: 100% !important;
+}
+
+.card-sayur {
+	width: 100%;
+	height: 325px;
+	overflow: hidden;
+}
+/* UPLOAD IMG */
+
+
+.upload-card {
+	width: 200px;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+
+.upload-card:hover {
+	cursor: pointer;
+}
+
+.upload-img {
+	flex-shrink: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
